@@ -1,0 +1,26 @@
+============================================================
+PubMedCLIP Image Analysis Report
+============================================================
+Image: /Users/aj/Documents/GitHub/PubMedCLIP/image.0012.png
+Model Type: huggingface-openai
+============================================================
+
+Image Analysis Results:
+------------------------------------------------------------
+1. a CT scan with visible sinuses
+   Confidence: 25.07%
+2. a CT scan showing cranial base
+   Confidence: 24.89%
+3. a CT scan showing skull structures
+   Confidence: 15.04%
+4. an abnormal head CT scan
+   Confidence: 10.92%
+5. a CT scan showing temporal bones
+   Confidence: 9.05%
+
+============================================================
+Best Match Description:
+------------------------------------------------------------
+head CT scan displaying cranial anatomy with visible sinuses
+Confidence: 26.16%
+============================================================
